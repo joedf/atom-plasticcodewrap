@@ -1,16 +1,16 @@
 {
   "name": "atom-plasticcodewrap",
   "theme": "syntax",
-  "version": "1.0.0",
+  "version": "0.0.0",
   "description": "PlasticCodeWrap Atom Syntax theme",
   "keywords": [
     "syntax",
     "theme",
-	"plastic-code-wrap",
-	"plastic",
-	"code",
-	"wrap",
-	"PlasticCodeWrap"
+    "plastic-code-wrap",
+    "plastic",
+    "code",
+    "wrap",
+    "PlasticCodeWrap"
   ],
   "repository": "https://github.com/joedf/atom-plasticcodewrap",
   "license": "MIT",
