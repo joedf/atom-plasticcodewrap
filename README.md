@@ -1,4 +1,4 @@
-# plastic-code-wrap theme
+# atom-plasticcodewrap syntax theme
 
 Originally converted from the TextMate theme using the [TextMate bundle converter](http://flight-manual.atom.io/hacking-atom/sections/converting-from-textmate/).
 
